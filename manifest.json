@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Teknokodi",
+  "description": "Teknolojinin Gelişen Adı - Eğitim ve Blog Sitesi",
+  "version": "1.0",
+  "icons": {
+  "128": "128.png"
+  },
+  "app": {
+  "urls": [
+  "https://play.google.com/store/apps/details?id=com.rhecanyx.teknokodi"
+  ],
+  "launch": {
+  "web_url": "https://www.teknokodi.com/"
+  }
+  },
+  "permissions": [
+  "unlimitedStorage",
+  "notifications"
+  ]
+  }
